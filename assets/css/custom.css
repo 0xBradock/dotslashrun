@@ -1,0 +1,25 @@
+@font-face {
+    font-family: ubuntu;
+    src: url('/fonts/UbuntuMonoNerdFontComplete.ttf');
+}
+
+@font-face {
+    font-family: ubuntu-bold;
+    src: url('/fonts/UbuntuMonoBoldNerdFontComplete.ttf');
+}
+
+@font-face {
+    font-family: ubuntu-italic;
+    src: url('/fonts/UbuntuMonoItalicNerdFontComplete.ttf');
+}
+
+@font-face {
+    font-family: ubuntu-bold-italic;
+    src: url('/fonts/UbuntuMonoBoldItalicNerdFontComplete.ttf');
+}
+
+html {
+    font-family: ubuntu;
+    font-size: 16pt;
+}
+
