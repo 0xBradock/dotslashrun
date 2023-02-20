@@ -1,5 +1,0 @@
-baseURL = 'http://dotslash.run'
-languageCode = 'en-us'
-title = './run'
-theme = 'blowfish'
-enableGitInfo = true

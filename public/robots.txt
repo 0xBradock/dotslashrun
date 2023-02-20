@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dotslash.run/sitemap.xml

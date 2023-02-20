@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>https://dotslash.run/posts/aws/foundation/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://dotslash.run/posts/aws/lambda-vpc-access-cross-account/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://dotslash.run/snippets/</loc>
+            <priority>0</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://dotslash.run/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://dotslash.run/authors/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://dotslash.run/categories/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://dotslash.run/posts/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://dotslash.run/series/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://dotslash.run/tags/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+</urlset>
