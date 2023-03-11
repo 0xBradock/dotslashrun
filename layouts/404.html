@@ -1,0 +1,12 @@
+{{ define "main"}}
+{{ $image := resources.Get "images/404.png" }}
+<div class="">
+  <div class="flex justify-center">
+    <h1 id="title"><a href="{{ "" | relURL }}" class="text-4xl">Take me home</a></h1>
+  </div>
+  <br />
+  <div>
+    <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+  </div>
+</div>
+{{ end }}
