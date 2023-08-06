@@ -8,7 +8,7 @@ enableGitInfo = true
 theme = "blowfish"
 baseURL = "https://dotslash.run/"
 defaultContentLanguage = "en"
-languageCode = "en"
+languageCode = "en-us"
 
 enableRobotsTXT = true
 paginate = 20
@@ -17,6 +17,13 @@ enableEmoji = true
 
 buildDrafts = false
 buildFuture = false
+
+[languages.en.params]
+description = "Digital garden"
+isoCode = "en"
+rtl = false
+displayName = "EN"
+
 
 [imaging]
   anchor = 'Center'
