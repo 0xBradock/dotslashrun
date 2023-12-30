@@ -12,12 +12,12 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-logo = "/images/logo.png"
+# logo = "/images/logo.png"
 # mainSections = ["posts"]
 robots = "all"
 
 [header]
-  layout = "fixed" # valid options: basic, fixed
+  layout = "basic" # valid options: basic, fixed
 
 [footer]
   showMenu = true
@@ -27,8 +27,8 @@ robots = "all"
   showScrollToTop = false
 
 [homepage]
-  layout = "profile" # valid options: page, profile, hero, card, background, custom
-  # homepageImage = "img/iceland.jpg" # used in: hero, and card
+  layout = "background" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "images/background.png" # used in: hero, and card
   showRecent = false
   cardView = true
   cardViewScreenWidth = true
@@ -53,7 +53,7 @@ robots = "all"
   showPagination = true
   invertPagination = false
   showReadingTime = true
-  showTableOfContents = true
+  showTableOfContents = false
   showTaxonomies = true 
   showAuthorsBadges = true
   showWordCount = false
@@ -69,7 +69,7 @@ robots = "all"
   showSummary = false
   #showViews = true
   #showLikes = true
-  showTableOfContents = true
+  showTableOfContents = false
   showCards = true
   groupByYear = false
   cardView = false
@@ -87,7 +87,7 @@ robots = "all"
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = true
-  showTableOfContents = true
+  showTableOfContents = false
 
 [firebase]
   # apiKey = "XXXXXX"

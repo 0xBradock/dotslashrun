@@ -8,15 +8,15 @@ rtl = false
 title = "./run"
 # logo = "img/logo.png"
 description = "Digital garden"
-copyright = "Thoughts are my own © 2023"
+copyright = "Thoughts are my own © 2024"
 
 [author]
-name = "Camilo Coelho"
+name = "Bradock"
 image = "images/profile-bw-bg-lens.jpg"
 headline = "Software Engineer and Architect"
 bio = "A decade trying to make the world a better place, a byte at a time"
 links = [
-  { email = "mailto:camilo@dotslash.run" },
+  { email = "mailto:0xbradock@proton.me" },
 #   { link = "https://link-to-some-website.com/" },
 #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #   { apple = "https://www.apple.com" },
@@ -28,7 +28,7 @@ links = [
 #   { facebook = "https://facebook.com/username" },
 #   { flickr = "https://www.flickr.com/photos/username/" },
 #   { foursquare = "https://foursquare.com/username" },
-  { github = "https://github.com/kmelow" },
+  { github = "https://github.com/0xbradock" },
 #   { gitlab = "https://gitlab.com/username" },
 #   { google = "https://www.google.com/" },
 #   { hashnode = "https://username.hashnode.dev" },
