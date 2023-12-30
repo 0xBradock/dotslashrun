@@ -24,7 +24,6 @@ isoCode = "en"
 rtl = false
 displayName = "EN"
 
-
 [imaging]
   anchor = 'Center'
 
